@@ -33,4 +33,6 @@ Finally run the following command
 streamlit run app.py
 ```
 
-![Web capture_6-11-2023_17315_localhost](https://github.com/shivamranaaa/Baisc-LLM-QnA/assets/86354964/25548307-a676-40f8-8d18-dbe5b06261fe)
+Hit local ip given by streamlit.
+
+![Web capture_6-11-2023_17315_localhost](https://github.com/shivamranaaa/Baisc-LLM-QnA/assets/86354964/7bc9e8e1-f02e-481c-aced-7948b1c7dc98)
