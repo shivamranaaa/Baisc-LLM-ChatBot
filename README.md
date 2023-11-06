@@ -15,15 +15,20 @@ Clone the repository
 git clone https://github.com/shivamranaaa/Baisc-LLM-QnA.git
 ```
 
+Change directory to Baisc-LLM-QnA
+
 ```bash
 cd Baisc-LLM-QnA
 ```
+
+Install required libaries
 
 ```bash
 pip install -r requirements.txt
 ```
 
+Finally run the following command
+
 ```bash
-# Finally run the following command
 streamlit run app.py
 ```
